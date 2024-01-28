@@ -1,0 +1,21 @@
+#map {
+    height: 180px;
+    width: 400px;
+    margin-top: 60px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card {
+    align-items: center;
+}
+
+footer {
+    background-color: gray;
+    height: 60px;
+    text-align: center;
+}
